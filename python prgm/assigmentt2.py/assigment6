@@ -1,0 +1,28 @@
+# 1.
+
+# import calendar
+# yy=2024
+# mm=11
+# print(calendar.month(yy,mm))
+
+# 2.
+# import datetime
+# current_date=datetime.date.today()
+# print(current_date)
+
+# 3.
+# import time
+# current = time.time()
+# print("current time in second=",current)
+
+# 4.
+# import operator
+# x=67
+# y=90
+# addResult=operator.add(x,y)
+# print("addition of input numbers ",addResult)
+
+# 5.
+# import math
+# x=math.sqrt(91)
+# print(x)
